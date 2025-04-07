@@ -1,4 +1,7 @@
-# ONT-Auto-login-and-Pwd-changer
+# ONT Auto login & Password Changer
+
+## Description
+
 Just a couple of Javascript scripts to automate login to admin panel &amp; change hotspot password in ONT Fiberhome.
 
 ## Install
